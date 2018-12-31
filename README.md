@@ -1,5 +1,6 @@
 # awesome-test-tool
-各种测试工具，自动化测试工具，自动化测试框架
+- 收集和整理各种测试工具，自动化测试工具，自动化测试框架
+- 欢迎提交各类测试工具到本项目
 
 
 ### 通用测试框架
@@ -50,12 +51,20 @@
 - JMeter
 - Fiddler
 
+### 弱网模拟
+- Fiddler
+- Charles
+- TC
+- WANem
+- 网络损伤模拟仪
+
 ### Mock
 - Moco
 
 ### Linux工具
 - htop 实时统计Linux系统资源占用率
 - iftop 实时统计Linux网络流量
+- nload Linux网速实时监控
 
 
 
