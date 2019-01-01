@@ -22,6 +22,7 @@
 - selenium
 - Ranorex
 - Macaca
+- katalon
 
 ### 桌面自动化
 - Ranorex
@@ -33,11 +34,13 @@
 - Appium
 - Ranorex
 - Macaca
+- katalon
 
 
 ### 性能测试
 - LoadRunner
-- JMeter
+- JMeter：基于Java的性能测试工具
+- locust：基于Python的性能测试工具
 
 ### 抓包
 - Fiddler: Fiddler是一个HTTP调试抓包工具。它通过代理的方式获取程序http通讯的数据，可以用其检测网页和服务器的交互情况。
@@ -49,7 +52,16 @@
 - SoapUI
 - Charles
 - JMeter
-- Fiddler Fiddler是一个HTTP调试抓包工具。它通过代理的方式获取程序http通讯的数据，可以用其检测网页和服务器的交互情况。
+- Fiddler: 是一个HTTP调试抓包工具。它通过代理的方式获取程序http通讯的数据，可以用其检测网页和服务器的交互情况。
+- Hitchhiker: 是一款开源的支持多人协作的 Restful Api 测试工具，支持自动化测试, 数据对比，压力测试，支持脚本定制请求，可以轻松部署到本地，和你的team成员一起协作测试Api。
+
+### 测试报告
+- ExtentReports
+- Allure
+- reportportal: AI-powered Test Automation Dashboard
+- cucumber-reporting
+- ReportNG: An HTML/XML Reporting Plug-in for TestNG
+
 
 ### 弱网模拟
 - Fiddler
