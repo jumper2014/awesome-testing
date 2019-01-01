@@ -10,7 +10,8 @@
 - unittest
 - RobotFramework
 - Cucumber
-- Behave
+- Behave 基于Python的BDD自动化测试框架
+- Gauge 轻量级的跨平台测试自动化工具，可以以业务语言编写测试用例。
 
 ### 用例和bug管理
 - TestLink 开源测试用例管理，测试计划，测试报告
@@ -34,22 +35,21 @@
 - Macaca
 
 
-
 ### 性能测试
 - LoadRunner
 - JMeter
 
 ### 抓包
-- Fiddler
-- Tcpdump
+- Fiddler: Fiddler是一个HTTP调试抓包工具。它通过代理的方式获取程序http通讯的数据，可以用其检测网页和服务器的交互情况。
+- Tcpdump 
 - Wireshark
 
 ### 接口测试
-- Postman
+- Postman: Postman is the complete toolchain for API developers, used by more than 5 million developers and 30,000 companies worldwide.
 - SoapUI
 - Charles
 - JMeter
-- Fiddler
+- Fiddler Fiddler是一个HTTP调试抓包工具。它通过代理的方式获取程序http通讯的数据，可以用其检测网页和服务器的交互情况。
 
 ### 弱网模拟
 - Fiddler
