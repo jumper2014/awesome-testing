@@ -4,11 +4,11 @@
 
 
 ### 通用测试框架
-- JUnit
-- TestNG
-- pytest
-- unittest
-- RobotFramework
+- [JUnit](https://junit.org) 最著名的xUnit类的单元测试框架，但是不仅仅可以做单元测试。
+- [TestNG](https://testng.org/) 更强大的Java测试框架，灵活可扩展，支持注解和多线程。
+- [pytest](https://docs.pytest.org) 最强大的Python测试框架，可定制性高，插件丰富。
+- [unittest](https://docs.python.org/3/library/unittest.html) Python官方内置的测试框架。
+- [RobotFramework](https://robotframework.org/) 基于关键字驱动的测试框架，开源，易用。
 - Cucumber
 - Behave 基于Python的BDD自动化测试框架
 - Gauge 轻量级的跨平台测试自动化工具，可以以业务语言编写测试用例。
@@ -41,6 +41,8 @@
 - LoadRunner
 - JMeter：基于Java的性能测试工具
 - locust：基于Python的性能测试工具
+- [Tsung](http://tsung.erlang-projects.org/): 基于Erlang的性能测试工具，支持海量的并发，但是由于懂Erlang的人少，故业界用得也少。
+- [Siege](https://www.joedog.org/): Siege是一个多线程HTTP负载测试和基准测试工具
 
 ### 抓包
 - Fiddler: Fiddler是一个HTTP调试抓包工具。它通过代理的方式获取程序http通讯的数据，可以用其检测网页和服务器的交互情况。
@@ -64,7 +66,7 @@
 
 
 ### 弱网模拟
-- Fiddler
+- Fiddler 
 - Charles
 - TC
 - WANem
