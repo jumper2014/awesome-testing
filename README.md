@@ -10,17 +10,18 @@
 - [unittest](https://docs.python.org/3/library/unittest.html) Python官方内置的测试框架。
 - [RobotFramework](https://robotframework.org/) 基于关键字驱动的测试框架，开源，易用。
 - [Cucumber](https://cucumber.io/) 开源的BDD自动化测试框架，支持Ruby和Java
-- [Behave]() 基于Python的BDD自动化测试框架
-- [Gauge]() 轻量级的跨平台测试自动化工具，可以以业务语言编写测试用例。
+- [Behave](https://github.com/behave/behave) 基于Python的BDD自动化测试框架
+- [Gauge](https://gauge.org/index.html) 轻量级的跨平台测试自动化工具，可以以业务语言编写测试用例。
 
 ### 用例生成
-- [graphwalker]()
-- [PICT]()
+- [graphwalker](https://github.com/GraphWalker) 基于模型的测试用例生成框架
+- [PICT]() 微软公司开发的pairwise testing的用例生成工具
 
 ### 用例和bug管理
-- [TestLink]() 开源测试用例管理，测试计划，测试报告
-- [ZenTao]() 禅道，国产开源工具，记录bug
-- [Redmine]()
+- [TestLink](http://www.testlink.org/) 开源测试用例管理，测试计划，测试执行，测试报告。
+- [ZenTao](https://www.zentao.net/) 禅道，国产开源工具，记录bug，用例管理，项目管理。
+- [Redmine](http://www.redmine.org/) 用Ruby开发的基于web的项目管理软件
+- [jira](https://www.atlassian.com/software/jira) 缺陷跟踪、客户服务、需求收集、流程审批、任务跟踪、项目跟踪和敏捷管理。
 
 ### Web自动化
 - [Selenium]()
