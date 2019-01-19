@@ -23,30 +23,22 @@
 - [Redmine](http://www.redmine.org/) 用Ruby开发的基于web的项目管理软件
 - [jira](https://www.atlassian.com/software/jira) 缺陷跟踪、客户服务、需求收集、流程审批、任务跟踪、项目跟踪和敏捷管理。
 
-### Web自动化
-- [Selenium]()
-- [Ranorex]()
-- [Macaca]()
-- [katalon]()
-
-### 桌面自动化
-- [Ranorex]()
-- [QTP]()
-- [AutoIT]()
-- [Macaca]()
+### 自动化工具
+- [Selenium](https://www.seleniumhq.org/) 业界最有影响力的Web自动化测试工具。
+- [atalon](https://www.katalon.com/) API，Web，移动端的自动化测试工具。
+- [Ranorex](https://www.ranorex.com/) 商业GUI自动化测试工具，支持桌面，Web，移动端。
+- [QTP]() 商业GUI桌面，Web的自动化测试工具。
+- [AutoIT]() 桌面自动化测试工具。
 
 ### 移动设备自动化
 - [Appium]()
-- [Ranorex]()
 - [Macaca]()
-- [Katalon]()
-
 
 ### 性能测试
-- [Apache Bench]()
-- [LoadRunner]()
-- [JMeter]()：基于Java的性能测试工具
-- [locust]()：基于Python的性能测试工具
+- [Apache Bench](http://httpd.apache.org/docs/2.4/programs/ab.html) HTTP性能测试工具
+- [LoadRunner](https://ssl.www8.hp.com/sg/en/ad/load-runner/load-runner.html) HP的商业性能测试工具
+- [JMeter](https://jmeter.apache.org/)：基于Java的性能测试工具，开源。
+- [locust](https://www.locust.io/)：基于Python的性能测试工具
 - [Tsung](http://tsung.erlang-projects.org/): 基于Erlang的性能测试工具，支持海量的并发，但是由于懂Erlang的人少，故业界用得也少。
 - [Siege](https://www.joedog.org/): Siege是一个多线程HTTP负载测试和基准测试工具
 
