@@ -29,8 +29,6 @@
 - [Ranorex](https://www.ranorex.com/) 商业GUI自动化测试工具，支持桌面，Web，移动端。
 - [QTP]() 商业GUI桌面，Web的自动化测试工具。
 - [AutoIT]() 桌面自动化测试工具。
-
-### 移动设备自动化
 - [Appium]()
 - [Macaca]()
 
