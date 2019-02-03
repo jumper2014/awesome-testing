@@ -28,9 +28,9 @@
 - [atalon](https://www.katalon.com/) API，Web，移动端的自动化测试工具。
 - [Ranorex](https://www.ranorex.com/) 商业GUI自动化测试工具，支持桌面，Web，移动端。
 - [QTP]() 商业GUI桌面，Web的自动化测试工具。
-- [AutoIT]() 桌面自动化测试工具。
-- [Appium]()
-- [Macaca]()
+- [AutoIT](https://www.autoitscript.com/site/) 用类Basic脚本编写Windows桌面GUI自动化的工具。
+- [Appium](http://appium.io/) 支持android和ios的移动端自动化测试工具
+- [Macaca](https://macacajs.github.io/zh/) 面向多端的自动化测试工具，由阿里巴巴开源。
 
 ### 性能测试
 - [Apache Bench](http://httpd.apache.org/docs/2.4/programs/ab.html) HTTP性能测试工具
