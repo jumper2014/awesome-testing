@@ -15,7 +15,7 @@
 
 ### 用例生成
 - [graphwalker](https://github.com/GraphWalker): 基于模型的测试用例生成框架
-- [PICT](): 微软公司开发的pairwise testing的用例生成工具
+- [PICT](https://docs.microsoft.com/en-us/previous-versions/software-testing/cc150619(v=msdn.10)): 微软公司开发的pairwise testing的用例生成工具
 
 ### 用例和bug管理
 - [TestLink](http://www.testlink.org/): 开源测试用例管理，测试计划，测试执行，测试报告。
@@ -31,6 +31,7 @@
 - [AutoIT](https://www.autoitscript.com/site/): 用类Basic脚本编写Windows桌面GUI自动化的工具。
 - [Appium](http://appium.io/): 支持android和ios的移动端自动化测试工具
 - [Macaca](https://macacajs.github.io/zh/): 面向多端的自动化测试工具，由阿里巴巴开源。
+- [Airtest](http://airtest.netease.com/): UI自动化测试工具，支持App和游戏，网易开源。
 
 ### 性能测试
 - [Apache Bench](http://httpd.apache.org/docs/2.4/programs/ab.html): HTTP性能测试工具
