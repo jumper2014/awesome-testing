@@ -42,13 +42,14 @@
 - [Siege](https://www.joedog.org/): Siege是一个多线程HTTP负载测试和基准测试工具
 - [wrk](https://github.com/wg/wrk): 一款现代HTTP基准测试工具。
 
-### 代码覆盖率
+### 代码质量
 - [jacoco](https://www.eclemma.org/jacoco/): 开源的Java代码覆盖率工具
+- [SonarQube](https://www.sonarqube.org/): 代码质量和安全的扫描工具
 
 ### 抓包
 - [Fiddler](): Fiddler是一个HTTP调试抓包工具。它通过代理的方式获取程序http通讯的数据，可以用其检测网页和服务器的交互情况。
-- [Tcpdump]() 
-- [Wireshark]()
+- [Tcpdump]()：网络抓包工具。
+- [Wireshark]()：有界面的网络包分析工具，支持Windows, Linux, Mac OS.
 
 ### 接口测试
 - [Postman](): Postman is the complete toolchain for API developers, used by more than 5 million developers and 30,000 companies worldwide.
@@ -60,10 +61,10 @@
 
 ### 测试报告
 - [ExtentReports]()
-- [Allure]()
+- [Allure](http://allure.qatools.ru/): 测试报告框架
 - [reportportal](): AI-powered Test Automation Dashboard
-- [cucumber-reporting]()
-- [ReportNG](): An HTML/XML Reporting Plug-in for TestNG
+- [cucumber-reporting](https://github.com/damianszczepanik/cucumber-reporting): HTML reports for Cucumber
+- [ReportNG](https://reportng.uncommons.org/): An HTML/XML Reporting Plug-in for TestNG
 
 
 ### 弱网模拟
@@ -71,10 +72,10 @@
 - [Charles]()
 - [TC]()
 - [WANem]()
-- 网络损伤模拟仪
+- 网络损伤模拟仪: 硬件网络损伤仿真仪器，用于模拟广域网的各种弱网条件，例如丢包，延迟，低带宽等。
 
 ### Mock
-- [Moco]()
+- [Moco](https://github.com/dreamhead/moco): 基于Java的Mock开源框架
 
 ### Linux工具
 - [htop]() 实时统计Linux系统资源占用率
