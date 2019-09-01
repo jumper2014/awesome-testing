@@ -33,6 +33,7 @@
 - [Appium](http://appium.io/): 支持android和ios的移动端自动化测试工具
 - [Macaca](https://macacajs.github.io/zh/): 面向多端的自动化测试工具，由阿里巴巴开源。
 - [Airtest](http://airtest.netease.com/): UI自动化测试工具，支持App和游戏，网易开源。
+- [SoloPi](https://github.com/alipay/SoloPi): Soloπ是一个无线化、非侵入式的Android自动化工具，公测版拥有录制回放、性能测试、一机多控三项主要功能，能为测试开发人员节省宝贵时间。
 
 ### 性能测试
 - [Apache Bench](http://httpd.apache.org/docs/2.4/programs/ab.html): HTTP性能测试工具
@@ -69,7 +70,7 @@
 - [Hitchhiker](https://github.com/brookshi/Hitchhiker): 是一款开源的支持多人协作的 Restful Api 测试工具，支持自动化测试, 数据对比，压力测试，支持脚本定制请求，可以轻松部署到本地，和你的team成员一起协作测试Api。
 
 ### 测试报告
-- [ExtentReports]()
+- [ExtentReports](http://extentreports.com/): 一个优雅，互动，灵活细致的测试报告框架。
 - [Allure](http://allure.qatools.ru/): 测试报告框架
 - [reportportal](): AI-powered Test Automation Dashboard
 - [cucumber-reporting](https://github.com/damianszczepanik/cucumber-reporting): HTML reports for Cucumber
