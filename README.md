@@ -28,7 +28,7 @@
 - [Cypress](https://www.cypress.io/): 基于js的web自动化测试工具。
 - [atalon](https://www.katalon.com/): API，Web，移动端的自动化测试工具。
 - [Ranorex](https://www.ranorex.com/): 商业GUI自动化测试工具，支持桌面，Web，移动端。
-- [QTP]() 商业GUI桌面，Web的自动化测试工具。
+- [QTP/UFT](https://en.wikipedia.org/wiki/HP_QuickTest_Professional) 商业GUI桌面，Web的自动化测试工具。
 - [AutoIT](https://www.autoitscript.com/site/): 用类Basic脚本编写Windows桌面GUI自动化的工具。
 - [Appium](http://appium.io/): 支持android和ios的移动端自动化测试工具
 - [Macaca](https://macacajs.github.io/zh/): 面向多端的自动化测试工具，由阿里巴巴开源。
@@ -42,31 +42,31 @@
 - [Tsung](http://tsung.erlang-projects.org/): 基于Erlang的性能测试工具，支持海量的并发，但是由于懂Erlang的人少，故业界用得也少。
 - [Siege](https://www.joedog.org/): Siege是一个多线程HTTP负载测试和基准测试工具
 - [wrk](https://github.com/wg/wrk): 一款现代HTTP基准测试工具。
-- [htop]() 实时统计Linux系统资源占用率
-- [iftop]() 实时统计Linux网络流量
-- [nload]() Linux网速实时监控
+- [htop](https://hisham.hm/htop/) 实时统计Linux系统资源占用率
+- [iftop](https://en.wikipedia.org/wiki/Iftop) 实时统计Linux网络流量
+- [nload](https://linux.die.net/man/1/nload) Linux网速实时监控
 
 ### 代码质量
 - [jacoco](https://www.eclemma.org/jacoco/): 开源的Java代码覆盖率工具
 - [SonarQube](https://www.sonarqube.org/): 代码质量和安全的扫描工具
 
 ### 网络工具
-- [Fiddler](): Fiddler是一个HTTP调试抓包工具。它通过代理的方式获取程序http通讯的数据，可以用其检测网页和服务器的交互情况。
-- [Tcpdump]()：网络抓包工具。
-- [Wireshark]()：有界面的网络包分析工具，支持Windows, Linux, Mac OS.
+- [Fiddler](https://www.telerik.com/fiddler): Fiddler是一个HTTP调试抓包工具。它通过代理的方式获取程序http通讯的数据，可以用其检测网页和服务器的交互情况。
+- [Tcpdump](https://linux.die.net/man/8/tcpdump)：网络抓包工具。
+- [Wireshark](https://www.wireshark.org/)：有界面的网络包分析工具，支持Windows, Linux, Mac OS.
 - [GoReplay](https://goreplay.org/): 网络监控工具，可以做流量回放，压力测试，流量分析
 - [TcpCopy](https://github.com/session-replay-tools/tcpcopy): 流量回放工具。
-- [Charles]()：抓包，弱网模拟，接口测试。
-- [TC]()
-- [WANem]()
+- [Charles](https://www.charlesproxy.com/)：抓包，弱网模拟，接口测试。
+- [TC](https://linux.die.net/man/8/tc) Linux上控制网络流量的工具
+- [WANem](http://wanem.sourceforge.net/): 广域网网络模拟器
 - [网络损伤模拟仪](): 硬件网络损伤仿真仪器，用于模拟广域网的各种弱网条件，例如丢包，延迟，低带宽等。
 
 ### 接口测试
-- [Postman](): Postman is the complete toolchain for API developers, used by more than 5 million developers and 30,000 companies worldwide.
-- [SoapUI]()
-- [JMeter]()
-- [Fiddler](): 是一个HTTP调试抓包工具。它通过代理的方式获取程序http通讯的数据，可以用其检测网页和服务器的交互情况。
-- [Hitchhiker](): 是一款开源的支持多人协作的 Restful Api 测试工具，支持自动化测试, 数据对比，压力测试，支持脚本定制请求，可以轻松部署到本地，和你的team成员一起协作测试Api。
+- [Postman](https://www.getpostman.com/): Postman is the complete toolchain for API developers, used by more than 5 million developers and 30,000 companies worldwide.
+- [SoapUI](https://www.soapui.org/): 最流行的API测试工具。
+- [JMeter](https://jmeter.apache.org/): 工业级的压力测试工具，也有人拿它做接口测试
+- [Fiddler](https://www.telerik.com/fiddler): 是一个HTTP调试抓包工具。它通过代理的方式获取程序http通讯的数据，可以用其检测网页和服务器的交互情况。
+- [Hitchhiker](https://github.com/brookshi/Hitchhiker): 是一款开源的支持多人协作的 Restful Api 测试工具，支持自动化测试, 数据对比，压力测试，支持脚本定制请求，可以轻松部署到本地，和你的team成员一起协作测试Api。
 
 ### 测试报告
 - [ExtentReports]()
@@ -77,4 +77,6 @@
 
 ### Mock
 - [Moco](https://github.com/dreamhead/moco): 基于Java的Mock开源框架
+- [mockserver](https://github.com/jamesdbloom/mockserver): 基于Java的Mock开源框架，可以通过client或者restful API远程控制mockserver的返回。
+
 
