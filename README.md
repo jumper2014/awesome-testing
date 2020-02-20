@@ -43,9 +43,11 @@
 - [Tsung](http://tsung.erlang-projects.org/): 基于Erlang的性能测试工具，支持海量的并发，但是由于懂Erlang的人少，故业界用得也少。
 - [Siege](https://www.joedog.org/): Siege是一个多线程HTTP负载测试和基准测试工具
 - [wrk](https://github.com/wg/wrk): 一款现代HTTP基准测试工具。
-- [htop](https://hisham.hm/htop/) 实时统计Linux系统资源占用率
-- [iftop](https://en.wikipedia.org/wiki/Iftop) 实时统计Linux网络流量
-- [nload](https://linux.die.net/man/1/nload) Linux网速实时监控
+- [htop](https://hisham.hm/htop/): 实时统计Linux系统资源占用率
+- [iftop](https://en.wikipedia.org/wiki/Iftop): 实时统计Linux网络流量
+- [nload](https://linux.die.net/man/1/nload): Linux网速实时监控
+- [webpagetest](https://github.com/WPO-Foundation/webpagetest):测量和分析网页性能工具,支持开发者下载源文件搭建私人的内部测试站点
+- [PageSpeed Insights](https://developers.google.cn/speed/pagespeed/insights/):专注于改进网页性能的开发者工具,google出品。
 
 ### 代码质量
 - [jacoco](https://www.eclemma.org/jacoco/): 开源的Java代码覆盖率工具
@@ -68,6 +70,8 @@
 - [JMeter](https://jmeter.apache.org/): 工业级的压力测试工具，也有人拿它做接口测试
 - [Fiddler](https://www.telerik.com/fiddler): 是一个HTTP调试抓包工具。它通过代理的方式获取程序http通讯的数据，可以用其检测网页和服务器的交互情况。
 - [Hitchhiker](https://github.com/brookshi/Hitchhiker): 是一款开源的支持多人协作的 Restful Api 测试工具，支持自动化测试, 数据对比，压力测试，支持脚本定制请求，可以轻松部署到本地，和你的team成员一起协作测试Api。
+- [Rest-Assured](https://github.com/rest-assured/rest-assured): 测试 RESTful Web Services 的 Java 类库
+- [Pact](https://github.com/pact-foundation/pact-specification): 消费者驱动契约测试的一种实现，可以用来在消费者的代码里mock响应，在提供方的代码中验证交互。
 
 ### 测试报告
 - [ExtentReports](http://extentreports.com/): 一个优雅，互动，灵活细致的测试报告框架。
@@ -79,5 +83,5 @@
 ### Mock
 - [Moco](https://github.com/dreamhead/moco): 基于Java的Mock开源框架
 - [mockserver](https://github.com/jamesdbloom/mockserver): 基于Java的Mock开源框架，可以通过client或者restful API远程控制mockserver的返回。
-
+- [whistle](https://github.com/avwo/whistle/)：是基于 Node 实现的跨平台抓包调试代理工具，可以录制请求和响应，然后作为mock server回放。
 
