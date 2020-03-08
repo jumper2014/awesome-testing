@@ -52,6 +52,7 @@
 ### 代码质量
 - [jacoco](https://www.eclemma.org/jacoco/): 开源的Java代码覆盖率工具
 - [SonarQube](https://www.sonarqube.org/): 代码质量和安全的扫描工具
+- [CodePulse](http://code-pulse.com/): 实时代码覆盖率工具
 
 ### 网络工具
 - [Fiddler](https://www.telerik.com/fiddler): Fiddler是一个HTTP调试抓包工具。它通过代理的方式获取程序http通讯的数据，可以用其检测网页和服务器的交互情况。
