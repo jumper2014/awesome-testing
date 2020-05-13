@@ -1,6 +1,6 @@
 # awesome-test-tool
-- 收集和整理各种测试工具，自动化测试工具，自动化测试框架
-- 欢迎提交各类测试工具到本项目
+- 收集和整理各种测试工具，自动化测试工具，自动化测试框架，觉得有帮助记得star下。
+- 欢迎提交各类测试工具到本项目。
 
 
 ### 通用测试框架
@@ -30,7 +30,8 @@
 - [Ranorex](https://www.ranorex.com/): 商业GUI自动化测试工具，支持桌面，Web，移动端。
 - [QTP/UFT](https://en.wikipedia.org/wiki/HP_QuickTest_Professional) 商业GUI桌面，Web的自动化测试工具。
 - [AutoIT](https://www.autoitscript.com/site/): 用类Basic脚本编写Windows桌面GUI自动化的工具。
-- [Appium](http://appium.io/): 支持android和ios的移动端自动化测试工具
+- [Appium](http://appium.io/): 支持android和ios的移动端自动化测试工具.
+- [STF](https://openstf.io/): STF(smartphone test farm) 移动设备管理工具，通过浏览器控制和管理移动设备。
 - [Macaca](https://macacajs.github.io/zh/): 面向多端的自动化测试工具，由阿里巴巴开源。
 - [Airtest](http://airtest.netease.com/): UI自动化测试工具，支持App和游戏，网易开源。
 - [SoloPi](https://github.com/alipay/SoloPi): Soloπ是一个无线化、非侵入式的Android自动化工具，公测版拥有录制回放、性能测试、一机多控三项主要功能，能为测试开发人员节省宝贵时间。
@@ -86,3 +87,5 @@
 - [mockserver](https://github.com/jamesdbloom/mockserver): 基于Java的Mock开源框架，可以通过client或者restful API远程控制mockserver的返回。
 - [whistle](https://github.com/avwo/whistle/)：是基于 Node 实现的跨平台抓包调试代理工具，可以录制请求和响应，然后作为mock server回放。
 
+### 流量回放
+- [vm-sandbox-repeater](https://github.com/alibaba/jvm-sandbox-repeater): 阿里开源的基于JVM-Sandbox的流量录制回放工具，提供入口请求（HTTP/Dubbo/Java）流量回放、子调用（Java/Dubbo）返回值Mock能力。
