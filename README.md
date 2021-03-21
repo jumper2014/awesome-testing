@@ -85,7 +85,12 @@
 ### Mock
 - [Moco](https://github.com/dreamhead/moco): 基于Java的Mock开源框架
 - [mockserver](https://github.com/jamesdbloom/mockserver): 基于Java的Mock开源框架，可以通过client或者restful API远程控制mockserver的返回。
-- [whistle](https://github.com/avwo/whistle/)：是基于 Node 实现的跨平台抓包调试代理工具，可以录制请求和响应，然后作为mock server回放。
+- [Mockito](https://site.mockito.org/): 用于Java单元测试的Mock测试框架
+- [PowerMock](https://github.com/powermock/powermock/): 基于Mockito扩展的Java单元测试Mock框架
+- [Whistle](https://github.com/avwo/whistle/)：是基于 Node 实现的跨平台抓包调试代理工具，可以录制请求和响应，然后作为mock server回放。
+
 
 ### 流量回放
 - [vm-sandbox-repeater](https://github.com/alibaba/jvm-sandbox-repeater): 阿里开源的基于JVM-Sandbox的流量录制回放工具，提供入口请求（HTTP/Dubbo/Java）流量回放、子调用（Java/Dubbo）返回值Mock能力。
+
+### 测试库
