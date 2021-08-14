@@ -35,6 +35,8 @@
 - [Macaca](https://macacajs.github.io/zh/): 面向多端的自动化测试工具，由阿里巴巴开源。
 - [Airtest](http://airtest.netease.com/): UI自动化测试工具，支持App和游戏，网易开源。
 - [SoloPi](https://github.com/alipay/SoloPi): Soloπ是一个无线化、非侵入式的Android自动化工具，公测版拥有录制回放、性能测试、一机多控三项主要功能，能为测试开发人员节省宝贵时间。
+- [ChaosBlade](https://github.com/chaosblade-io/chaosblade): 阿里巴巴开源的一款简单易用、功能强大的混沌实验注入工具。
+- [ChaosMesh](https://github.com/chaos-mesh/chaos-mesh): 基于 Kubernetes 的云原生混沌工程平台。
 
 ### 性能测试
 - [Apache Bench](http://httpd.apache.org/docs/2.4/programs/ab.html): HTTP性能测试工具
