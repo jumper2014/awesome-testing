@@ -17,11 +17,13 @@
 - [graphwalker](https://github.com/GraphWalker): 基于模型的测试用例生成框架
 - [PICT](https://docs.microsoft.com/en-us/previous-versions/software-testing/cc150619(v=msdn.10)): 微软公司开发的pairwise testing的用例生成工具
 
-### 用例和bug管理
+### 平台,用例和bug管理
 - [TestLink](http://www.testlink.org/): 开源测试用例管理，测试计划，测试执行，测试报告。
 - [ZenTao](https://www.zentao.net/): 禅道，国产开源工具，记录bug，用例管理，项目管理。
 - [Redmine](http://www.redmine.org/): 用Ruby开发的基于web的项目管理软件
 - [jira](https://www.atlassian.com/software/jira): 缺陷跟踪、客户服务、需求收集、流程审批、任务跟踪、项目跟踪和敏捷管理。
+- [YApi](https://hellosean1025.github.io/yapi/index.html): 旨在为开发、产品、测试人员提供更优雅的接口管理服务。可以帮助开发者轻松创建、发布、维护 API
+- [MeterSphere](https://www.fit2cloud.com/metersphere/index.html): 一站式开源持续测试平台。
 
 ### 自动化工具
 - [Selenium](https://www.seleniumhq.org/): 业界最有影响力的Web自动化测试工具。
@@ -89,6 +91,7 @@
 - [mockserver](https://github.com/jamesdbloom/mockserver): 基于Java的Mock开源框架，可以通过client或者restful API远程控制mockserver的返回。
 - [Mockito](https://site.mockito.org/): 用于Java单元测试的Mock测试框架
 - [PowerMock](https://github.com/powermock/powermock/): 基于Mockito扩展的Java单元测试Mock框架
+- [Mockoon](https://mockoon.com/): 本地运行模拟 API 的最简单，最快的方法
 - [Whistle](https://github.com/avwo/whistle/)：是基于 Node 实现的跨平台抓包调试代理工具，可以录制请求和响应，然后作为mock server回放。
 
 
