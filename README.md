@@ -4,8 +4,7 @@
   - [软件测试面试题](InterviewQuestions_SoftwareTesting.md) | [自动化测试面试题](InterviewQuestions_AutoTesting.md)
   - [Java面试题](InterviewQuestions_Java.md) | [Python面试题](InterviewQuestions_Python.md) | [网络面试题](InterviewQuestions_Networking.md) | [数据库面试题](InterviewQuestions_Database.md)
   - [简历修改 职业规划 自动化构建](HowToService.md)
-- 整理各种优质软件测试相关的文章链接
-- 欢迎提交各类优质工具，文章，面试题
+- 欢迎提交各类优质工具，面试题
 
 
 
