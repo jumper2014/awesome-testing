@@ -4,6 +4,7 @@
   - [软件测试面试题](SoftwareTestingInterviewQuestions.md)
   - [Java面试题](JavaInterviewQuestions.md)
   - [Python面试题](PythonInterviewQuestions.md)
+  - [简历修改以及职业规划](HowToService.md)
 - 整理各种优质软件测试相关的文章链接
 - 欢迎提交各类优质工具，文章，面试题
 
