@@ -1,4 +1,11 @@
 ### 英语面试题
+- 和对方打招呼
+- 争取准备时间
+- 告诉对方你已准备好
+- 请求重新开始
+- 请求对方复述
+- 重述对方的问题
+- 请求对方放慢语速
 - Why did you leave your last job? 
 - What is your relationship with your colleagues like? 
 - Do you mind working for someone younger than yourself? 
