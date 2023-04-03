@@ -29,6 +29,7 @@
 - [jira](https://www.atlassian.com/software/jira): 缺陷跟踪、客户服务、需求收集、流程审批、任务跟踪、项目跟踪和敏捷管理。
 - [YApi](https://hellosean1025.github.io/yapi/index.html): 旨在为开发、产品、测试人员提供更优雅的接口管理服务。可以帮助开发者轻松创建、发布、维护 API
 - [MeterSphere](https://www.fit2cloud.com/metersphere/index.html): 一站式开源持续测试平台。
+- [BlazeMeter](https://www.blazemeter.com/): 一站式持续测试平台。支持performance, functional, scriptless, API testing and monitoring, test data, and mock services
 
 ### 自动化工具
 - [Selenium](https://www.seleniumhq.org/): 业界最有影响力的Web自动化测试工具。
@@ -50,6 +51,8 @@
 - [LoadRunner](https://ssl.www8.hp.com/sg/en/ad/load-runner/load-runner.html): HP的商业性能测试工具
 - [JMeter](https://jmeter.apache.org/)：基于Java的性能测试工具，开源。
 - [locust](https://www.locust.io/)：基于Python的性能测试工具
+- []
+- [Taurus](https://www.blazemeter.com/): 是 BlazeMeter 的核心组件，是一个开源自动化框架，用于运行各种开源负载测试工具和功能测试工具，支持的最流行开源压测工具有 JMeter、Selenum、Gatling、The Grnder、Locust 等。
 - [Tsung](http://tsung.erlang-projects.org/): 基于Erlang的性能测试工具，支持海量的并发，但是由于懂Erlang的人少，故业界用得也少。
 - [Siege](https://www.joedog.org/): Siege是一个多线程HTTP负载测试和基准测试工具
 - [wrk](https://github.com/wg/wrk): 一款现代HTTP基准测试工具。
