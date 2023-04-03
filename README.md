@@ -51,7 +51,6 @@
 - [LoadRunner](https://ssl.www8.hp.com/sg/en/ad/load-runner/load-runner.html): HP的商业性能测试工具
 - [JMeter](https://jmeter.apache.org/)：基于Java的性能测试工具，开源。
 - [locust](https://www.locust.io/)：基于Python的性能测试工具
-- []
 - [Taurus](https://www.blazemeter.com/): 是 BlazeMeter 的核心组件，是一个开源自动化框架，用于运行各种开源负载测试工具和功能测试工具，支持的最流行开源压测工具有 JMeter、Selenum、Gatling、The Grnder、Locust 等。
 - [Tsung](http://tsung.erlang-projects.org/): 基于Erlang的性能测试工具，支持海量的并发，但是由于懂Erlang的人少，故业界用得也少。
 - [Siege](https://www.joedog.org/): Siege是一个多线程HTTP负载测试和基准测试工具
