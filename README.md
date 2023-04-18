@@ -1,8 +1,7 @@
 # awesome-testing
 - 整理各种测试工具，自动化测试工具，自动化测试框架，觉得有用记得star和fork。
 - 整理各种常见典型软件测试面试题(不断更新中)
-  - [软件测试面试题](InterviewQuestions_SoftwareTesting.md) | [自动化测试面试题](InterviewQuestions_AutoTesting.md) | [通用面试题](InterviewQuestions_Common.md)
-  - [Java面试题](InterviewQuestions_Java.md) | [Python面试题](InterviewQuestions_Python.md) | [网络面试题](InterviewQuestions_Networking.md) | [数据库面试题](InterviewQuestions_Database.md) | [英语面试题](InterviewQuestions_English.md)
+  - [软件测试面试题，自动化测试面试题， 通用面试题，Java面试题，Python面试题， 网络面试题，数据库面试题， 英语面试题](InterviewQuestions_SoftwareTesting.md)
   - [面试题答案 简历修改 职业规划 自动化构建 联系微信yesterry](HowToService.md)
 
 
