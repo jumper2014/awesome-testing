@@ -50,6 +50,14 @@
 - 构成重载的条件有哪些？
 - 函数的返回值不同可以构成重载吗？为什么？
 - 抽象类和接口的区别有哪些？
+- 抽象类和接口如何选择？
+- 说说常见的集合有哪些？
+- HashMap 和 HashTable 的区别有哪些？
+- ConcurrentHashMap 和 HashTable 的区别？
+- List 和 Set 的区别是什么？
+- 线程和进程的区别是什么？
+- ThreadLocal关键字？
+- 对线程池有了解吗？
 #### Spring
 - Spring Framework是什么？
 - Spring Framework有哪些核心模块？
