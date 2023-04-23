@@ -22,7 +22,7 @@
 - [Redmine](http://www.redmine.org/): 用Ruby开发的基于web的项目管理软件
 - [jira](https://www.atlassian.com/software/jira): 缺陷跟踪、客户服务、需求收集、流程审批、任务跟踪、项目跟踪和敏捷管理。
 - [YApi](https://hellosean1025.github.io/yapi/index.html): 旨在为开发、产品、测试人员提供更优雅的接口管理服务。可以帮助开发者轻松创建、发布、维护 API
-- [MeterSphere](https://www.fit2cloud.com/metersphere/index.html): 一站式开源持续测试平台。
+- [MeterSphere](https://github.com/metersphere/metersphere): 一站式开源持续测试平台。
 - [BlazeMeter](https://www.blazemeter.com/): 一站式持续测试平台。支持performance, functional, scriptless, API testing and monitoring, test data, and mock services
 
 ### 自动化工具
