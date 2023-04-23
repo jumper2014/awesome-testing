@@ -1,11 +1,6 @@
 # awesome-testing
 - 整理各种测试工具，自动化测试工具，自动化测试框架，觉得有用记得star和fork。
-- 整理各种常见典型软件测试面试题(不断更新中)
-  - [软件测试面试题，自动化测试面试题， 通用面试题，Java面试题，Python面试题， 网络面试题，数据库面试题， 英语面试题](InterviewQuestions_SoftwareTesting.md)
-  - [面试题答案 简历修改 职业规划 自动化构建 联系微信yesterry](HowToService.md)
-
-
-
+- [整理软件测试面试题，自动化测试面试题， 通用面试题，Java面试题，Python面试题， 网络面试题，数据库面试题， 英语面试题](InterviewQuestions_SoftwareTesting.md)
 
 ### 通用测试框架
 - [JUnit](https://junit.org): 最著名的xUnit类的单元测试框架，但是不仅仅可以做单元测试。
