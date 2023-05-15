@@ -91,7 +91,7 @@
 - [Moco](https://github.com/dreamhead/moco): 基于Java的Mock开源框架
 - [mockserver](https://github.com/jamesdbloom/mockserver): 基于Java的Mock开源框架，可以通过client或者restful API远程控制mockserver的返回。
 - [Mockito](https://site.mockito.org/): 用于Java单元测试的Mock测试框架
-- [PowerMock](https://github.com/powermock/powermock/): 基于Mockito扩展的Java单元测试Mock框架
+- [WireMock](https://wiremock.org/): Free and Open Source tool for building mock APIs
 - [Mockoon](https://mockoon.com/): 本地运行模拟 API 的最简单，最快的方法
 - [Whistle](https://github.com/avwo/whistle/)：是基于 Node 实现的跨平台抓包调试代理工具，可以录制请求和响应，然后作为mock server回放。
 
