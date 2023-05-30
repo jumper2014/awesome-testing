@@ -79,6 +79,7 @@
 - [Hitchhiker](https://github.com/brookshi/Hitchhiker): 是一款开源的支持多人协作的 Restful Api 测试工具，支持自动化测试, 数据对比，压力测试，支持脚本定制请求，可以轻松部署到本地，和你的team成员一起协作测试Api。
 - [Rest-Assured](https://github.com/rest-assured/rest-assured): 测试 RESTful Web Services 的 Java 类库
 - [Pact](https://github.com/pact-foundation/pact-specification): 消费者驱动契约测试的一种实现，可以用来在消费者的代码里mock响应，在提供方的代码中验证交互。
+- [API Testing](https://github.com/LinuxSuRen/api-testing)：高可扩展的、基于 YAML 格式编写测试用例的接口测试工具，支持命令行以及 VSCode 中使用
 
 ### 测试报告
 - [ExtentReports](http://extentreports.com/): 一个优雅，互动，灵活细致的测试报告框架。
