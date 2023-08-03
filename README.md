@@ -95,6 +95,8 @@
 - [Mockoon](https://mockoon.com/): 本地运行模拟 API 的最简单，最快的方法
 - [Whistle](https://github.com/avwo/whistle/)：是基于 Node 实现的跨平台抓包调试代理工具，可以录制请求和响应，然后作为mock server回放。
 
+### 工具集合
+- [Fast-Test](https://github.com/jumper2014/fast-test): 一些自动测试工具和框架demo的集合
 
 ### 流量回放
 - [vm-sandbox-repeater](https://github.com/alibaba/jvm-sandbox-repeater): 阿里开源的基于JVM-Sandbox的流量录制回放工具，提供入口请求（HTTP/Dubbo/Java）流量回放、子调用（Java/Dubbo）返回值Mock能力。
