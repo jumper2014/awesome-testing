@@ -83,6 +83,8 @@
 ### 测试报告
 - [ExtentReports](http://extentreports.com/): 一个优雅，互动，灵活细致的测试报告框架。
 - [Allure](http://allure.qatools.ru/): 测试报告框架
+- [testomatio-reporter](https://github.com/testomatio/reporter): Real-time reporting,  analytics, running tests on CI\CD. Jira, Liner, AzureDevOps task mask management integrations and many more. FREE subscription available.
+- [GitHub Pipe](https://github.com/testomatio/reporter/blob/master/docs/pipes/github.md): Simple reporting and analytics for GithubAction runs.
 - [reportportal](): AI-powered Test Automation Dashboard
 - [cucumber-reporting](https://github.com/damianszczepanik/cucumber-reporting): HTML reports for Cucumber
 - [ReportNG](https://reportng.uncommons.org/): An HTML/XML Reporting Plug-in for TestNG
